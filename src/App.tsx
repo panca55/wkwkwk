@@ -298,7 +298,7 @@ export default function App() {
                     <h2 className="font-serif-theme text-lg text-gray-800 mb-4 font-bold italic leading-tight">To the one who carries the dawn in her eyes,</h2>
                     
                     <div className="font-serif-theme text-[13px] text-gray-700 leading-relaxed italic space-y-3">
-                      <p>I know these words arrive when the moon has already shifted, and the candles have dimmed. But honestly, I thought since you’re a little closer to the ground, time might move slower for you too. Oops, I forgot you're not taller than this phone hahaha!</p>
+                      <p>I know these words arrive when the moon has already shifted, and the candles have dimmed. But honestly, I thought since you’re a little closer to the ground, time might move slower for you too. I forgot you're not taller than this phone hahaha!</p>
                       <p>My deepest apologies for being a wanderer lost in time, missing the exact moment to celebrate your light. But look at it this way, now your birthday feels longer, thanks to me! hahaha.</p>
                       <p>Happy Birthday, though the calendar says I’m late, my heart has been whispering this since the first second. You are a blend of grace and ethereal light, a sanctuary of kindness, and a melody that never fades.</p>
                       <p>May your year be as luminous as your spirit, and may you forgive the one who is late in words but never in love. I'll even write this extra small so you can read it easily hahaha.</p>
