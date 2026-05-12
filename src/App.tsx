@@ -294,7 +294,7 @@ export default function App() {
                     <X size={18} />
                   </button>
 
-                  <div className="overflow-y-auto letter-scroll flex-1 pr-1 pt-12 pb-10">
+                  <div className="overflow-y-auto letter-scroll flex-1 pr-1 pt-24 pb-24">
                     <h2 className="font-serif-theme text-lg text-gray-800 mb-4 font-bold italic leading-tight">To the one who carries the dawn in her eyes,</h2>
                     
                     <div className="font-serif-theme text-[13px] text-gray-700 leading-relaxed italic space-y-3">
